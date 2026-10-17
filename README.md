@@ -53,6 +53,7 @@ Platforms that provide WhatsApp Business API access and management tools.
 - [Vonage Communications APIs](https://www.vonage.com/) — Messaging APIs including WhatsApp support.
 - [Respond.io](https://respond.io/) — Customer conversation management platform.
 - [WATI](https://wati.io/) — WhatsApp team inbox and automation platform.
+- [AIsoule](https://aisoule.com/) — WhatsApp Cloud API platform with team inbox, automation, coexistence, and 0% markup.
 
 ## APIs & Developer Tools
 
